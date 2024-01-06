@@ -1,1 +1,4 @@
-created the main python file
+# This program prints Hello, world!
+
+print('Hello, world!')
+
